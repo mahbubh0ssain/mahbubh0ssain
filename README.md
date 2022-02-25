@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Md. Mahbub Hossain
+### Hi there 👋, I'm Md. Mahbub Hossain
 #### A frontend Web Developer from Bangladesh.tor
 ![A frontend Web Developer from Bangladesh.tor](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
