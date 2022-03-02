@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Md. Mahbub Hossain
-#### A frontend Web Developer from Bangladesh.
 ![A frontend Web Developer from Bangladesh.](https://pbs.twimg.com/profile_banners/890845533216030720/1646231552/600x200)
 
 
-Skills: HTML/CSS/Bootstrap/Tailwind/JS
+### Skills: HTML/CSS/Bootstrap/Tailwind/JS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently learning JS. 
 - 💬 Ask me about Bootstrap, Tailwind 
 - 📫 How to reach me: mahbubju48@gamil.com 
 
