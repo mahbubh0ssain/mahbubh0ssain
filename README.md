@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md. Mahbub Hossain
 #### A frontend Web Developer from Bangladesh.
-![A frontend Web Developer from Bangladesh.tor](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A frontend Web Developer from Bangladesh.](https://pbs.twimg.com/profile_banners/890845533216030720/1646231552/600x200)
 
 
 Skills: HTML/CSS/Bootstrap/Tailwind/JS
