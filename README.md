@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning JS. 
 - 💬 Ask me about Bootstrap, Tailwind 
-- 📫 How to reach me: mahbubju48@gamil.com 
+- 📫 How to reach me: mahbubh0ssain.dev@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahbubh0ssain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahbubh0ssain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahbubh0ssain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mahbubh0ssain)  
