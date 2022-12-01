@@ -4,8 +4,7 @@
 
 ### Skills: HTML/CSS/Bootstrap/Tailwind/JS
 
-- 🔭 I’m currently learning JS. 
-- 💬 Ask me about Bootstrap, Tailwind 
+- 💬 Ask me about Bootstrap, Tailwind, JavaScript, ReactJS, MongoDB, Firebase, Reacr router
 - 📫 How to reach me: mahbubh0ssain.dev@gmail.com
 
 
