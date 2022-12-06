@@ -30,8 +30,6 @@
 **👀 I am looking to collaborate open source project**  
 
 
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
