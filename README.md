@@ -2,7 +2,6 @@
   
 
 
-
 ### 📫 Reach me out  
 <a href="https://twitter.com/mahbubh0ssain" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -31,7 +30,6 @@
 
 
 
-
 </td></tr></table>  
 
 <br/>  
@@ -55,7 +53,7 @@
 <br/>  
 
 
-## Github Stats  
+## Current Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahbubh0ssain&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
