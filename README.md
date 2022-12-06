@@ -19,7 +19,7 @@
 
 
 ## Current Overview  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 **🌱 I’m exploring Redux**  
   
